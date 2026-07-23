@@ -9,3 +9,4 @@ Four-time COO. I write about AI adoption, team ownership, and getting out of the
 - Installing AI Execution Architecture for founder-led teams: governance, adoption, team ownership, not just tools.
 - Writing Built to Hold, weekly, on team-driven business systems.
 - Building out my own internal AI team, agents that run the recurring ops work.
+<img width="768" height="1024" alt="8DE47D39-F693-4EA9-AC0A-9B55151B107A_1_105_c" src="https://github.com/user-attachments/assets/6c30d01d-433e-4cd6-8ae1-c482502bfce6" />
